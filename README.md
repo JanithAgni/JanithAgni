@@ -1,4 +1,4 @@
-
+<h1 align="center">Hi 😊👋 I'am Janith Agni</h1>
 <img align="right" alt="Coding" width="1000" height="350" src="https://i.pinimg.com/originals/b8/2f/28/b82f28a7e9c8fcb3868d3d94652c107c.gif">
 # 💫 About Me:
 🔭 I’m currently working on Brandix Apparel Limited<br><br>🌱 I’m currently learning React<br><br>💬 Ask me about Javascript , c# ,java ,c++<br><br>📫 How to reach me janithagniSE@gmail.com<br><br>⚡ Fun fact I am always cool
