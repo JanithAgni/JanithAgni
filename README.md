@@ -1,4 +1,4 @@
-<img align="right" alt="Coding" width="1000" height="350" src="https://media.tenor.com/i0nzuUl-6wQAAAAC/background.gif">
+<img align="right" alt="Coding" width="1000" height="350" src="https://wallpaperxyz.com/wp-content/uploads/Gif-Animated-Wallpaper-Background-Full-HD-Free-Download-for-PC-Macbook-261121-Wallpaperxyz.com-9.gif">
 <P align="center">.......................................</P>
 <h1 align="center">Hi 👋, I'm Janith Agni</h1>
 <h3 align="center">A passionate frontend developer from Sri Lanka</h3>
