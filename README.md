@@ -1,6 +1,8 @@
-<h1 align="center">Hi 👋, I'm Janith Agni</h1>
+
 <h3 align="center">A passionate frontend developer from Sri Lanka</h3>
 <img align="right" alt="Coding" width="1000" height="350" src="https://i.pinimg.com/originals/b8/2f/28/b82f28a7e9c8fcb3868d3d94652c107c.gif">
+
+<h1 align="center">Hi 👋, I'm Janith Agni</h1>
 
 
 <p align="left"> <img src="https://i.gifer.com/xK.gif" /> </p>
