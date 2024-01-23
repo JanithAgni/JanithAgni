@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Janith Agni</h1>
 <h3 align="center">A passionate frontend developer from Sri Lanka</h3>
-<img align="right" alt="Coding" width="1000" height="300" src="https://i.redd.it/plt5w4qabenb1.gif">
+<img align="right" alt="Coding" width="300" src="https://cdna.artstation.com/p/assets/images/images/060/460/880/original/pixel-jeff-chill-mario-2023-2.gif?1678633376">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=janithagni&label=Profile%20views&color=0e75b6&style=flat" alt="janithagni" /> </p>
