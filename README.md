@@ -30,5 +30,6 @@
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=JanithAgni&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false)<br/>
+<img align="right" alt="Coding"  src="https://camo.githubusercontent.com/869bd24ea0dcd8f1cf3a6530a402b7a55616911f6fc87e97e8bab681a70ca934/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d4a616e69746841676e69267468656d653d626c75652d677265656e26686964655f626f726465723d66616c7365">
 ![](https://github-readme-streak-stats.herokuapp.com/?user=JanithAgni&theme=blue-green&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=JanithAgni&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
